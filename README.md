@@ -1,3 +1,5 @@
+## Authors: Zia Rasheed, Noor Ahmed Pirwani, Anoosha Rasheed 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
